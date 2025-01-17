@@ -1,0 +1,7 @@
+FLAG=HPH{aaaaa}
+
+Viết câu điều kiện if: 
+    1. Kiểm tra xem kí tụ đầu tiên có phải là 'A' không? 
+    2. Nếu là 'A' --> điều kiện đúng --> "Backup thành công" 
+    3. Nếu không là 'A' --> điều kiện sai --> "Backup không thành công" 
+
